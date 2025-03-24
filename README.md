@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @kavindumihiran
-- 👀 I’m interested in embedded systems and automation systems and how to use AI concepts to maximize the efficiencies of those systems.
+- 👀 I’m interested in Machine Learning concepts, more focused on computer vision.
+- ✅ With my electrical engineering background, I can develop solutions for complex engineering problems. 
 - 🌱 I’m currently learning Electrical Engineering at University of Moratuwa Sri Lanka.
 - 📫 You can reach me on kavindumihirangu@gmail.com
 
