@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @kavindumihiran
-- 👀 I’m interested in Machine Learning concepts, more focused on computer vision.
+- 🧠 AI Enthusiast | 🖼️ Computer Vision Explorer | 🔍 Passionate about LLMs and ML Research
+    Turning pixels and tokens into intelligent solutions.
 - ✅ With my electrical engineering background, I can develop solutions for complex engineering problems. 
 - 🌱 I’m currently learning Electrical Engineering at University of Moratuwa Sri Lanka.
 - 📫 You can reach me on kavindumihirangu@gmail.com
