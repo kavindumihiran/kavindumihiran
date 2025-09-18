@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kavindumihiran
-- 🧠 AI Enthusiast | 🖼️ Computer Vision Explorer | 🔍 Passionate about LLMs and ML Research
-    Turning pixels and tokens into intelligent solutions.
+- 🧠 C programming | 🖼️ Embedded systems Explorer | 🔍 Passionate about gaining knowledge and cutting edge AI to
+- solve problems.
 - ✅ With my electrical engineering background, I can develop solutions for complex engineering problems. 
-- 🌱 I’m currently learning Electrical Engineering at University of Moratuwa Sri Lanka.
+- 🌱 I completed my degeree majored in Electrical Engineering at University of Moratuwa
 - 📫 You can reach me on kavindumihirangu@gmail.com
 
 <!---
